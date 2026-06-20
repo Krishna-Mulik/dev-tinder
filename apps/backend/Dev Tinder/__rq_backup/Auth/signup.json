@@ -1,0 +1,21 @@
+{
+  "name": "signup",
+  "rank": "auntit17776237649321",
+  "request": {
+    "type": "http",
+    "url": "{{domain}}/api/v1/user/signup",
+    "scripts": {
+      "preRequest": "",
+      "postResponse": ""
+    },
+    "method": "POST",
+    "queryParams": [],
+    "headers": [],
+    "body": "{\n  \"userName\": \"asdf\",\n  \"fullName\": \"asdf\",\n  \"email\": \"asdf@gmail.com\",\n  \"password\": \"asfsfasdfasd\"\n}",
+    "contentType": "application/json",
+    "auth": {
+      "currentAuthType": "INHERIT",
+      "authConfigStore": {}
+    }
+  }
+}

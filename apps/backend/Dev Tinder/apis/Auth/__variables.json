@@ -1,0 +1,14 @@
+{
+  "$schema": "https://assets.requestly.com/local/v1.1.0/collection-variables.json",
+  "domain": {
+    "id": "3b97b2aa-6716-4d1b-991c-182c0181cd0a",
+    "syncValue": "http://localhost:3002",
+    "type": "string",
+    "isEnabled": true,
+    "rank": "a0000",
+    "createdAt": "2026-05-05T16:44:03.743Z",
+    "updatedAt": "2026-05-05T16:44:03.743Z",
+    "createdBy": null,
+    "updatedBy": null
+  }
+}
